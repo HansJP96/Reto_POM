@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Atencion al cliente para visitantes de la pagina web" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-20T22:07:02" hostname="LENOVO-PC" time="18.528">
+  <properties/>
+  <testcase name="Visitante de la pagina acceder a la opcion de Contact Us" classname="Atencion al cliente para visitantes de la pagina web" time="10.623"/>
+  <testcase name="Envio de mensaje para contacto exitoso" classname="Atencion al cliente para visitantes de la pagina web" time="7.905"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/S410p%20Touch/Documents/5.GuardarLenguajes/Carpeta_Java/Sofka/RetoPOM/src/test/resources/features/contactus/userContactUs.feature
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Visitante de la pagina acceder a la opcion de Contact Us(atencion-al-cliente-para-visitantes-de-la-pagina-web;visitante-de-la-pagina-acceder-a-la-opcion-de-contact-us)
+--------------------------------------------------------------------------------
+Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 54242
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+mar. 20, 2022 5:07:06 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+mar. 20, 2022 5:07:06 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 99, so returning the closest version found: 97
+mar. 20, 2022 5:07:06 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 99 of 97
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+Visitante de la pagina acceder a la opcion de Contact Us
+----------------------------------------------------------------------
+[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/S410p%20Touch/Documents/5.GuardarLenguajes/Carpeta_Java/Sofka/RetoPOM/src/test/resources/features/contactus/userContactUs.feature
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Envio de mensaje para contacto exitoso(atencion-al-cliente-para-visitantes-de-la-pagina-web;envio-de-mensaje-para-contacto-exitoso)
+--------------------------------------------------------------------------------
+Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 52241
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+mar. 20, 2022 5:07:14 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+mar. 20, 2022 5:07:14 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 99, so returning the closest version found: 97
+mar. 20, 2022 5:07:14 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 99 of 97
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
+ |_   _| | __| / __| |_   _|   | _ \   /_\   / __| / __| | __| |   \ 
+   | |   | _|  \__ \   | |     |  _/  / _ \  \__ \ \__ \ | _|  | |) |
+   |_|   |___| |___/   |_|     |_|   /_/ \_\ |___/ |___/ |___| |___/ 
+
+Envio de mensaje para contacto exitoso
+----------------------------------------------------------------------
+]]></system-err>
+</testsuite>

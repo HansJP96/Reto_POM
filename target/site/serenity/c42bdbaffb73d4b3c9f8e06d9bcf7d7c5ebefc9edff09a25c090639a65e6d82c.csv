@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Atencion al cliente para visitantes de la pagina web","Visitante de la pagina acceder a la opcion de Contact Us","SUCCESS","2022-03-20T17:07:03.1347736-05:00[America/Bogota]","0.0","10.37"
+"Inicio de sesion para clientes","Inicio de sesion exitoso","SUCCESS","2022-03-20T17:02:21.6553115-05:00[America/Bogota]","0.0","14.92"
+"Registro para nuevos usuarios","Registro fallido de nuevo usuario cuando la contrasena y su campo de confirmacion no coinciden","SUCCESS","2022-03-20T17:01:24.1974163-05:00[America/Bogota]","0.0","23.83"
