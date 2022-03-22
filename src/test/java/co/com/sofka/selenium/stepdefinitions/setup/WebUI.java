@@ -17,7 +17,7 @@ public class WebUI {
         System.setProperty(WEBDRIVER_CHROME_DRIVER,WEBDRIVER_CHROME_DRIVER_PATH);
     }
 
-    protected void generalSetUp(String urlPage){
+    protected void generalSetUp(String urlPage ){
         webDriver = new ChromeDriver();
         webDriver.get(urlPage);
         webDriver.manage().window().maximize();

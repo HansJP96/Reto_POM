@@ -6,7 +6,7 @@ Feature: Atencion al cliente para visitantes de la pagina web
   quiero ponerme en contacto con un trabajador del banco
   para consultar informacion que necesito
 
-  Scenario: Visitante de la pagina acceder a la opcion de Contact Us
+  Scenario: Visitante de la pagina quiere acceder a la opcion de Contact Us
     When el usuario visitante de la pagina se encuentra en el home
     Then existe una opcion de Contact Us
     And lo redirige a la pagina correcta
